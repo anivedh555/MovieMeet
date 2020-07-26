@@ -1,5 +1,5 @@
 # MovieMeet
-Basic Utilities for virtual movie watching amidst the lockdowns.
+Basic Utilities for a good virtual movie-watching experience.
 
 Currently Live at:
 http://movie-meet.ml/
